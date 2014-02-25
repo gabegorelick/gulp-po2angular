@@ -1,3 +1,5 @@
+# This module is deprecated. Please use [gulp-angular-gettext](https://www.npmjs.org/package/gulp-angular-gettext) instead.
+
 # [gulp](http://gulpjs.com)-po2angular
 
 > Convert .po files to JSON for use with [angular-gettext](http://angular-gettext.rocketeer.be).

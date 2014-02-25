@@ -1,6 +1,6 @@
 {
   "name": "gulp-po2angular",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp plugin to convert .po files to JSON for use with angular-gettext",
   "license": "MIT",
   "repository": "gabegorelick/gulp-po2angular",
